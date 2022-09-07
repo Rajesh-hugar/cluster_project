@@ -1,7 +1,5 @@
 import requests # request img from web
 import shutil # save img locally
-
-
 url = "https://coffee.alexflipnote.dev/random.json"
 
 image_dict = {}
